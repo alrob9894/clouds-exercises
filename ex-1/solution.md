@@ -53,7 +53,7 @@ The setup looks as follows at the moment: one virtual machine, based on an Ubunt
 
 ```
              +------------------+Virtual Machine+------------+
-             |      Ubuntu 14.04                             |
+             |      Ubuntu 18.04                             |
              |     +----------------+  +-----------------+   |
              +     |                |  |                 |   |
 http://publicIP:80 |   Apache2      |  |   MariaDB       |   |
